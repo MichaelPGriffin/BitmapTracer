@@ -9,3 +9,5 @@ Example, from the command line:
 
 The .bas file will contain macro that can be imported into an Excel workbook as a VBA module.  The macro draws the outline of the bitmap image as an Excel shape.
 
+Future plans:
+    Introduce a classifier to convert raw images into black and white bitmap files. 
