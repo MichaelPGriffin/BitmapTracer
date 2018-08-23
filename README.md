@@ -5,7 +5,7 @@ Assumes Python 2.7 is available from the command line.  Currently this only hand
 
 Demo:
 
-Here's a bitmap image Texas.
+Here's a bitmap image of Texas.
 
 ![Texas](MapOfTexas.bmp?raw=true "Texas")
 
